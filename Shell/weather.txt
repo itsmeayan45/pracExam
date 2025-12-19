@@ -1,0 +1,4 @@
+Monday : 12 ---> Very Cold 
+Tuesday : 20 ---> Cold 
+Wednesday : 28 ---> Hot 
+Thursday : 36 ---> Very Hot 
