@@ -1,7 +1,4 @@
-Monday 12
-Tuesday 20
-Wednesday 28
-Thursday 36
-roll|09|ayan|87|21|sayan|83
-roll|09|ayan|87|21|sayan|83
-roll|09|ayan|87|21|sayan|83
+roll|name|number
+09|ayan|87
+21|sayan|83
+98|djjj|65
