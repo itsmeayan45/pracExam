@@ -4,7 +4,7 @@ read -p "Enter roll number to update: " roll
 found=0
 while IFS='|' read r n m
     do
-        if [[ "$r"=="$roll" ]]; then
+        if [[ "$r" == "$roll" ]]; then
             found=1;
             echo "record found"
             echo "$r|$n|$m"
